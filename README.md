@@ -1,6 +1,6 @@
-# simple-react-setup
+# clone
 
-A super simple react setup from scratch with all the basics that you might need.
+A basic frontend clone of youtube with react
 
 ## How to use
 
